@@ -11,8 +11,8 @@
 body{
 	font-size: 16px;
 	font-family: 'Roboto', sans-serif;
-	background: #a48896;
-	color: #813f3c;
+	background: #f8cce1;
+	color: #8b0701;
 }
 
 h1,
@@ -314,7 +314,7 @@ header .navbar.sticky-header{
 }
 
 .banner-content p{
-	color: #813f3c;
+	color: #8b0701;
 	font-size: 20px;
 	font-weight: 300;
 	margin-bottom: 1.5em;
@@ -581,6 +581,7 @@ header .navbar.sticky-header{
 .experience-single p{
 	margin: 0;
 	line-height: 1.6em;
+	color:white;
 }
 
 .experience-pagination,
